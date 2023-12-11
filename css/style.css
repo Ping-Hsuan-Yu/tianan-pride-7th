@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+.tianan-pride p {
+  color: #5b5b5b;
+  font-weight: 500;
+}
+.tianan-pride h2 {
+  color: #5b5b5b;
+  font-weight: 900;
+}
+.tianan-pride main {
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(251, 254, 252, 0.11) 18%, rgba(240, 253, 245, 0.16) 32%, rgba(220, 250, 234, 0.24) 45%, rgba(194, 247, 218, 0.35) 58%, rgba(159, 242, 197, 0.49) 70%, rgba(116, 237, 171, 0.66) 82%, rgba(67, 230, 141, 0.86) 93%, #20e278 100%);
+}
+.tianan-pride .sec-1 {
+  min-height: 405px;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(251, 254, 252, 0.11) 18%, rgba(240, 253, 245, 0.16) 32%, rgba(220, 250, 234, 0.24) 45%, rgba(194, 247, 218, 0.35) 58%, rgba(159, 242, 197, 0.49) 70%, rgba(116, 237, 171, 0.66) 82%, rgba(67, 230, 141, 0.86) 93%, #20e278 100%);
+}
+.tianan-pride .sec-1 .img01 img {
+  height: 100%;
+  width: 53px;
+}
+.tianan-pride .sec-1 .content {
+  margin-top: 10vw;
+}
+.tianan-pride .sec-1 .img02 {
+  position: relative;
+  z-index: -1;
+}
+.tianan-pride .sec-1 .img02 img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.tianan-pride .sec-2 {
+  min-height: 334px;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(251, 254, 252, 0.11) 18%, rgba(240, 253, 245, 0.16) 32%, rgba(220, 250, 234, 0.24) 45%, rgba(194, 247, 218, 0.35) 58%, rgba(159, 242, 197, 0.49) 70%, rgba(116, 237, 171, 0.66) 82%, rgba(67, 230, 141, 0.86) 93%, #20e278 100%);
+}
+.tianan-pride .sec-2 .img03 {
+  position: relative;
+}
+.tianan-pride .sec-2 .img03 img {
+  position: absolute;
+  bottom: 0;
+  right: 0vw;
+}
+.tianan-pride .sec-2 .content {
+  text-align: end;
+  margin-top: 10vw;
+}
+.tianan-pride .sec-2 .content h2 {
+  text-wrap: nowrap;
+}
+.tianan-pride .sec-2 .img04 {
+  display: flex;
+  justify-content: end;
+}
+.tianan-pride .sec-3 {
+  min-height: 430px;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.11) 17%, rgba(255, 255, 255, 0.15) 30%, rgba(255, 255, 255, 0.22) 43%, rgba(255, 255, 255, 0.31) 55%, rgba(255, 255, 255, 0.44) 66%, rgba(255, 255, 255, 0.59) 77%, rgba(255, 255, 255, 0.77) 88%, rgba(255, 255, 255, 0.97) 98%, #fff 100%);
+}
+.tianan-pride .sec-3 .img05 img {
+  height: 100%;
+  width: 52px;
+}
+.tianan-pride .sec-3 .content {
+  margin-top: 10vw;
+  background-image: url(../img/img06.png);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  padding-right: 16vw;
+}/*# sourceMappingURL=style.css.map */
