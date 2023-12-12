@@ -3,13 +3,37 @@ body {
   font-family: "Noto Sans TC", sans-serif;
 }
 
-.tianan-pride p {
-  color: #5b5b5b;
-  font-weight: 500;
+.tianan-pride .swiper-wrapper {
+  width: 100%;
+}
+.tianan-pride .swiper-wrapper .swiper-slide img {
+  width: 100%;
 }
 .tianan-pride h2 {
   color: #5b5b5b;
   font-weight: 900;
+}
+.tianan-pride .mx-10 {
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+.tianan-pride .color-primary {
+  color: #20e278;
+}
+.tianan-pride .bg-primary {
+  color: white;
+  background-color: #20e278;
+}
+.tianan-pride .bg-primary p {
+  color: white;
+}
+.tianan-pride .content p {
+  color: #5b5b5b;
+  font-weight: 500;
+}
+.tianan-pride .text.text-gray p {
+  color: #5b5b5b;
+  font-weight: 400;
 }
 .tianan-pride main {
   background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(251, 254, 252, 0.11) 18%, rgba(240, 253, 245, 0.16) 32%, rgba(220, 250, 234, 0.24) 45%, rgba(194, 247, 218, 0.35) 58%, rgba(159, 242, 197, 0.49) 70%, rgba(116, 237, 171, 0.66) 82%, rgba(67, 230, 141, 0.86) 93%, #20e278 100%);
@@ -71,4 +95,11 @@ body {
   background-position: right bottom;
   background-repeat: no-repeat;
   padding-right: 16vw;
+}
+.tianan-pride .sec-4 .text h1 {
+  color: #20e278;
+  font-size: 2rem;
+}
+.tianan-pride .sec-5 .text .fs-s {
+  font-size: 0.8rem;
 }/*# sourceMappingURL=style.css.map */
