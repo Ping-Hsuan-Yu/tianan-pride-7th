@@ -35,7 +35,13 @@ body {
   color: #5b5b5b;
   font-weight: 400;
 }
-.tianan-pride main {
+.tianan-pride .text-center {
+  text-align: center;
+}
+.tianan-pride .text-end {
+  text-align: end;
+}
+.tianan-pride .preface {
   background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(251, 254, 252, 0.11) 18%, rgba(240, 253, 245, 0.16) 32%, rgba(220, 250, 234, 0.24) 45%, rgba(194, 247, 218, 0.35) 58%, rgba(159, 242, 197, 0.49) 70%, rgba(116, 237, 171, 0.66) 82%, rgba(67, 230, 141, 0.86) 93%, #20e278 100%);
 }
 .tianan-pride .sec-1 {
@@ -102,4 +108,24 @@ body {
 }
 .tianan-pride .sec-5 .text .fs-s {
   font-size: 0.8rem;
+}
+.tianan-pride .sec-6 .img06 {
+  position: relative;
+}
+.tianan-pride .sec-6 .img06 img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.tianan-pride .sec-6 .about {
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(251, 254, 252, 0.11) 18%, rgba(240, 253, 245, 0.16) 32%, rgba(220, 250, 234, 0.24) 45%, rgba(194, 247, 218, 0.35) 58%, rgba(159, 242, 197, 0.49) 70%, rgba(116, 237, 171, 0.66) 82%, rgba(67, 230, 141, 0.86) 93%, #20e278 100%);
+}
+.tianan-pride .sec-6 footer {
+  background-color: #20e278;
+}
+.tianan-pride .sec-6 footer p {
+  color: #fff;
+}
+.tianan-pride .sec-6 footer .fs-s {
+  font-size: 0.75rem;
 }/*# sourceMappingURL=style.css.map */
