@@ -200,6 +200,9 @@ body {
         );
         }
         footer{
+            &>div{
+                margin: 0 1rem ;
+            }
             background-color: #20e278;
             p{
                 color: #fff;

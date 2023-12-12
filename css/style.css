@@ -123,6 +123,9 @@ body {
 .tianan-pride .sec-6 footer {
   background-color: #20e278;
 }
+.tianan-pride .sec-6 footer > div {
+  margin: 0 1rem;
+}
 .tianan-pride .sec-6 footer p {
   color: #fff;
 }
